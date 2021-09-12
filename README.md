@@ -1,5 +1,5 @@
 ### Hey I'm John Okely 👋
-👥 I'm Head of Engineering at [Functionly](https://functionly.com/). I build and grow engineering cultures.
+I'm Head of Engineering at [Functionly](https://functionly.com/). I build and grow engineering cultures.
 
 🙌 I get energy from building new skills in my team and forging products in new & better ways. 
 
